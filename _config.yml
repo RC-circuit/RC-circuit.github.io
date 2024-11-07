@@ -21,7 +21,7 @@ repository               : "RC-circuit/RC-circuit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_pic.JPG"
+  avatar           : "personal_pic.jpg"
   name             : "Ruthwik Chivukula"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate 4th year, IIT Madras"
