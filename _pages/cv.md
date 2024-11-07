@@ -23,7 +23,7 @@ Scholastic Achievements
 * All India Rank 1024 (99.92 %ile) in JEE Mains among 10,00,000+ candidates and secured 100 %ile in Chemistry (2021)
 * All India Rank 2201 in JEE Advanced among 2,00,000+ candidates nationwide (2021)
 
-Professional and Research experience
+Professional and Research Experience
 ======
 * Summer 2024: American Express, AI Labs, Bangalore, India
   * Intern Analyst
