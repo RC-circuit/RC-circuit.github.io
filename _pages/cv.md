@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Technology in Mechanical Engineering with Honors, IIT Madras, 2025 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: American Express, AI Labs, Bangalore, India
+  * Intern Analyst
+  * Devised a custom fuzzy matching algorithm to generalize across the enterprise business units
+  * Received Pre-Placement Offer based on internship performance
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2024 - present: IISc Bangalore, India, Computational and Data Sciences department
+  * Research Intern
+  * Building physics based deep learning models to enhance temporal rollout of traditional solvers
+  * Professor guide: Konduri Aditya
 
 * Summer 2015: Research Assistant
   * Github University
@@ -34,12 +32,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C, C++
+* Python Libraries & Frameworks: Pandas, Numpy, OpenCV, Sympy, Scipy, Pytorch
+* Parallel Programming: OpenMP, OpenMPI, OpenACC
+* Software: MATLAB, Gmsh, Git
 
 Publications
 ======
@@ -47,11 +43,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -61,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as AI Club Head, Center for Innovation, IIT Madras for the year '23-'24.
+* Spearheaded a team of over 50 members and worked on 5 year-long projects ranging across RL, NLP and SciML.
+* Conducted workshops and sessions for the general student body, garnering an average of 100-150 attendees.
