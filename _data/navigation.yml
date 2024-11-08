@@ -11,7 +11,7 @@ main:
     url: /cv/
     
   - title: "Coursework"
-    url: /year-archive/
+    url: /markdown/
       
   # - title: "Courses"
   #   url: /markdown/
