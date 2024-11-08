@@ -38,6 +38,7 @@ Professional and Research Experience
 * July 2023 - Sept 2024: IIT Madras, India, Aerospace Engineering department
   * AI Club Project
   * Inverse airfoil design from pressure distribution plots using deep neural networks
+  * Filed a provisional patent application and aim to publish a paper based on our findings
   * Professor guide: Nagabhushana Rao Vadlamani
   
 Skills
