@@ -64,5 +64,5 @@ Extra Curricular
 ### Analytics Club Coordinator and Project Member ('22-'23)
 * Conducted [summer school sessions](https://www.youtube.com/watch?v=xoD65hPjAZQ&ab_channel=AnalyticsClubIITM) and other workshops on machine learning and deep learning topics for the general public.
 
-### Avanti Mentor
+### Avanti Mentor ('21-'22)
 * Mentored a group of Class 12 students from underprivileged backgrounds for various engineering competitive exams.
