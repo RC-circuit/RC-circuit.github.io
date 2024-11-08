@@ -53,9 +53,9 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
 Extra Curricular
 ======
-
 ### AI Club Head, Center for Innovation, IIT Madras ('23-'24)
 * Served as AI Club Head, Center for Innovation, IIT Madras for the year '23-'24.
 * Spearheaded a team of over 50 members and worked on 5 year-long projects ranging across RL, NLP, and SciML.
