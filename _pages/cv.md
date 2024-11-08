@@ -47,12 +47,12 @@ Skills
 * Parallel Programming: OpenMP, OpenMPI, OpenACC
 * Software: MATLAB, Gmsh, Git
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 Extra Curricular
 ======
 
@@ -61,7 +61,7 @@ Extra Curricular
 * Spearheaded a team of over 50 members and worked on 5 year-long projects ranging across RL, NLP, and SciML.
 * Ideated and organized workshops for the general student body, garnering an average of 100-150 attendees.
 
-### Analytics Club Coordinator and Project Member
+### Analytics Club Coordinator and Project Member ('22-'23)
 * Conducted [summer school sessions](https://www.youtube.com/watch?v=xoD65hPjAZQ&ab_channel=AnalyticsClubIITM) and other workshops on machine learning and deep learning topics for the general public.
 
 ### Avanti Mentor
