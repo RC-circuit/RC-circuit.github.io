@@ -10,8 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Projects"
+  - title: "Coursework"
     url: /year-archive/
       
-  - title: "Courses"
-    url: /markdown/
+  # - title: "Courses"
+  #   url: /markdown/
