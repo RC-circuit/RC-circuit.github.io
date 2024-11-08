@@ -9,8 +9,8 @@ redirect_from:
 
 ## Mechanical Engineering
 
-* [Parallel Scientific Computing]{https://github.com/RC-circuit/Parallel-Scientific-Computing}
-* [Foundations of CFD]{https://github.com/RC-circuit/Foundations-of-CFD}
+* [Parallel Scientific Computing](https://github.com/RC-circuit/Parallel-Scientific-Computing)
+* [Foundations of CFD](https://github.com/RC-circuit/Foundations-of-CFD)
 * Finite Element Analysis
 * Theory of Vibrations
 * Principles of Thermal Energy Conversion
@@ -24,7 +24,7 @@ redirect_from:
 * Series and Matrices
 
 ## Artificial Intelligence
- * [Pattern Recognition and Machine Learning]{https://github.com/RC-circuit/Pattern-Recognition-and-Machine-Learning}
+ * [Pattern Recognition and Machine Learning](https://github.com/RC-circuit/Pattern-Recognition-and-Machine-Learning)
  * Multi Arm Bandits
  * Deep Learning for Imaging
 
