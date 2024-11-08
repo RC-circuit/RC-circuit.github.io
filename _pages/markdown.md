@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Courses and Projects @ IITM"
+title: "Courses @ IITM"
 author_profile: true
 redirect_from: 
   - /md/
