@@ -12,4 +12,4 @@ Hi folks! I am Ruthwik, a final year undergraduate from the department of mechan
 I interned at American Express during the summer '24. I served as the AI Club head, Center for Innovation, IIT Madras, Apr '23 - Mar '24 where I got to work with some amazing people who shared a common passion for AI. I am currently working under Prof. Konduri Aditya, IISc Bangalore, Computational and Data Sciences department. I recently picked up the habit of reading autobiographies. I enjoy playing chess in my free time and love watching cricket.
 
 
-![my current research interests](/images/self_desp.png)
+![my current research interests](/images/collage.png)
