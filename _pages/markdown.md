@@ -7,26 +7,20 @@ redirect_from:
   - /markdown.html
 ---
 
-## Mechanical Engineering
-
+## Applied and Computational Mathematics
+* [Numerical Linear Algebra](https://github.com/RC-circuit/Numerical-Linear-Algebra)
 * [Parallel Scientific Computing](https://github.com/RC-circuit/Parallel-Scientific-Computing)
 * [Foundations of CFD](https://github.com/RC-circuit/Foundations-of-CFD)
-* Finite Element Analysis
+* [Finite Element Analysis](https://github.com/RC-circuit/Finite-Element-Analysis)
+* Computational Heat and Fluid Flow
 * Theory of Vibrations
-* Principles of Thermal Energy Conversion
-* Heat Transfer
-* Renewable Energy Technology
-
-## Mathematics
-* Numerical Linear Algebra
-* Linear Algebra for Engineers
-* Differential Equations
-* Series and Matrices
-
+  
 ## Artificial Intelligence
  * [Pattern Recognition and Machine Learning](https://github.com/RC-circuit/Pattern-Recognition-and-Machine-Learning)
- * Multi Arm Bandits
+ * [Multi Armed Bandits](https://github.com/RC-circuit/Multi-Armed-Bandits)
  * Deep Learning for Imaging
+ * Introduction to Reinforcement Learning
+ * Digital Video Processing
 
 <!--
 ## MathJax 
